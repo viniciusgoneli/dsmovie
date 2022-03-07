@@ -1,4 +1,4 @@
-import MovieCard from 'components/MoviesCard';
+import MovieCard from 'components/MovieCard';
 import Pagination from 'components/Pagination';
 
 function Listing(){
